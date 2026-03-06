@@ -1,0 +1,5 @@
+* commit 175304b0b94c1613ecefd4c0cf055f77b25e88e4
+  Author: efp-bsc-inf-03-24 <efp-bsc-inf-03-24@unima.ac.mw>
+  Date:   Fri Mar 6 13:20:55 2026 +0200
+  
+      Initial commit: add homepage HTML structure
